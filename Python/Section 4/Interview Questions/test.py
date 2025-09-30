@@ -3,7 +3,7 @@ class Node:
         self.value = value
         self.next = None
         
-
+##test!
 class LinkedList:
     def __init__(self, value):
         new_node = Node(value)
